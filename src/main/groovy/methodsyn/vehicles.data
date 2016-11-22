@@ -1,0 +1,5 @@
+type, engine, fuel
+sedan, v4, gas
+coupe, v4, gas
+pickup, v6, gas
+rig, v12, diesel

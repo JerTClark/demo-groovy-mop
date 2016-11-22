@@ -1,0 +1,2 @@
+## demo-groovy-mop
+A simple example of metaprogramming using Groovy's MetaObject Protocol (MOP) based on the example from the book, [Programming Groovy 2](https://pragprog.com/book/vslg2/programming-groovy-2) by Venkat Subramaniam.
